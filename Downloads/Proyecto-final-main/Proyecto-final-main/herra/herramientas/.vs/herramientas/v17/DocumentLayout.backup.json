@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{9F053D3D-016C-40AA-8ED2-128CAC4648EC}|herramientas.csproj|solutionrelative:material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F053D3D-016C-40AA-8ED2-128CAC4648EC}|herramientas.csproj|c:\\users\\14-cf2521la\\downloads\\proyecto-final-main\\proyecto-final-main\\herra\\herramientas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9F053D3D-016C-40AA-8ED2-128CAC4648EC}|herramientas.csproj|C:\\Users\\14-cf2521la\\Downloads\\Proyecto-final-main\\Proyecto-final-main\\herra\\herramientas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9F053D3D-016C-40AA-8ED2-128CAC4648EC}|herramientas.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -29,8 +29,7 @@
               "ToolTip": "C:\\Users\\14-cf2521la\\Downloads\\Proyecto-final-main\\Proyecto-final-main\\herra\\herramientas\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T23:46:03.76Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-01T23:46:03.76Z"
             },
             {
               "$type": "Document",
@@ -40,7 +39,7 @@
               "RelativeDocumentMoniker": "Material.cs",
               "ToolTip": "C:\\Users\\14-cf2521la\\Downloads\\Proyecto-final-main\\Proyecto-final-main\\herra\\herramientas\\Material.cs",
               "RelativeToolTip": "Material.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAEUAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T23:45:49.414Z",
               "EditorCaption": ""

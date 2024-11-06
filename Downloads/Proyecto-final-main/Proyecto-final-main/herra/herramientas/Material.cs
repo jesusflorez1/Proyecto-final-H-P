@@ -78,6 +78,14 @@ namespace herramientas
             
         }
 
+        public class Biblioteca
+        {
+
+            public List<Material> materials = new List<Material>();
+            public List<Persona> personas = new List<Persona>();
+            public List<Movimiento> movimientos = new List<Movimiento>();
+
+        }
 
     }
 
